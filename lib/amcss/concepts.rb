@@ -1,0 +1,2 @@
+module Amcss::Concepts
+end
