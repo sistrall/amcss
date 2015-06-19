@@ -38,6 +38,8 @@ $ gem install amcss
 AMCSS is designed as a foundation for other libraries, specifically
 developed for different environments.
 
+If you're using Rails, than you could evaluate [amcss-rails](https://github.com/sistrall/amcss-rails).
+
 ## Contributing
 
 1. Fork it ( https://github.com/sistrall/amcss/fork )
