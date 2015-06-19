@@ -2,6 +2,8 @@
 
 [AMCSS](http://amcss.github.io/) in Ruby.
 
+[![Build Status](https://travis-ci.org/sistrall/amcss.svg)](https://travis-ci.org/sistrall/amcss)
+
 ## Why AMCSS?
 
 Nowadays it seems like "to do everything using classes" is the mantra for most CSS development.
